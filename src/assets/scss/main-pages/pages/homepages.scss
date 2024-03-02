@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.nav-menu{
+    display: inline-flex;
+    align-items: center;
+    li{
+        padding: 20px 40px;
+        text-transform: capitalize;
+    }
+}
+.banner-content{
+    max-width: 754px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+	h1{
+		margin-bottom:30px;
+	}
+	p{
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 452px;
+		margin-bottom:20px;
+	}
+}
+.main-bnr{
+	background-color:#EFFEFF;
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+.section-padding{
+	padding-top:100px;
+	padding-bottom:80px;
+}
+.section-head{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 725px;
+	padding-bottom: 30px;
+
+}
+// thired section
+
+.award-bx{
+	text-align: center;
+	width: 261px;
+	height: 259px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	padding: 20px;
+	border-radius: var(--radius);
+	&.award-primary{
+		background-color: #FFF5F3;
+	}
+	&.award-secondary{
+		background-color: #FFF0F9;
+	}
+	&.award-success{
+		background-color: #ECFFFF;
+	}
+	&.award-info{
+		background-color: #F6F4FF;
+	}
+	.award-content{
+		img{
+			width: 25%;
+		}
+	}
+}
+
+
+// // experts tab
+// .experts-tab{
+// 	&.nav-tab{
+		
+// 	}
+// }

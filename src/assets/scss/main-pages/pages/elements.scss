@@ -1,0 +1,33 @@
+.btn{
+	padding:10px 25px;
+	border-radius:0;
+	
+}
+.btn-outline-primary{
+	border-color:var(--primary);
+	color:var(--primary);
+	&:hover{
+		background-color: var(--primary);
+		border-color:var(--primary);
+	}
+}
+.btn-primary{
+	background-color: var(--primary);
+	border-color:var(--primary);
+	&:hover{
+		border-color: var(--primary);
+		background-color: var(--primary);
+	}
+}
+
+
+/* badge */
+
+.badge-primary{
+	background-color:var(--primary);
+	
+	&.light{
+		background-color:var(--rgba-primary-1);
+		color:var(--primary);
+	}
+}

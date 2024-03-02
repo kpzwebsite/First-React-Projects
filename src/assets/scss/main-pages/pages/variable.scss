@@ -1,0 +1,61 @@
+
+
+
+// defaut-color
+$primary: #0CBBC7;
+
+$secondary: #000;
+$body-bg : #fff;
+
+$radius: 4px;
+
+body{
+    color:#676767;
+}
+h1,h2,h3,h4,h5,h6{
+    color:var(--secondary);
+}
+
+/* all heading font size */
+
+$font-size-base     : 0.875rem !default;
+$h1-font-size       : 2.75rem;
+$h2-font-size       : 1.75rem;
+$h3-font-size       : 1.25rem;
+$h4-font-size       : 1.125rem;
+$h5-font-size       : 1rem;
+$h6-font-size       : 0.875rem;
+
+
+.container{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 1199px!important;
+}
+
+/* fixing scss */
+
+a{
+	text-decoration: none;
+    color:var(--secondary);
+    font-size: 14px;
+}
+ul li{
+    list-style-type: none;
+    padding:0;
+}
+ul{
+    padding-left: 0;
+    margin: 0;
+}
+
+
+
+:root{
+    --primary : #{$primary};
+	--rgba-primary-1: rgba(12,187,199, 0.1);
+    --secondary: #{$secondary};
+    --body-bg : #{$body-bg};
+    --radius: #{$radius};
+}
+
