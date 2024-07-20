@@ -6,6 +6,8 @@ $primary: #0CBBC7;
 
 $secondary: #000;
 $body-bg : #fff;
+$text:#676767;
+
 
 $radius: 4px;
 
@@ -57,5 +59,6 @@ ul{
     --secondary: #{$secondary};
     --body-bg : #{$body-bg};
     --radius: #{$radius};
+    --ks-text:#{$text};
 }
 

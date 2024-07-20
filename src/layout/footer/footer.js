@@ -5,7 +5,7 @@ function Footer({logo}) {
        <footer class="section-padding pb-0 bg-dark">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-2">
+                    <div class="col-xl-2 col-md-2">
                         <div class="footer-ks-widget">
                             <h4 class="text-white">Products</h4>
                             <ul>
