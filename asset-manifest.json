@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/First-React-Projects/static/css/main.9593a291.css",
-    "main.js": "/First-React-Projects/static/js/main.31dada9d.js",
+    "main.js": "/First-React-Projects/static/js/main.4a0bd208.js",
     "static/js/453.ad6eb26e.chunk.js": "/First-React-Projects/static/js/453.ad6eb26e.chunk.js",
     "static/media/cover.jpg": "/First-React-Projects/static/media/cover.2644449894afed5be418.jpg",
     "static/media/2.jpg": "/First-React-Projects/static/media/2.e94c8e2810640c5135e3.jpg",
@@ -13,11 +13,11 @@
     "static/media/pic2.png": "/First-React-Projects/static/media/pic2.d6f1d81126e753c083ae.png",
     "index.html": "/First-React-Projects/index.html",
     "main.9593a291.css.map": "/First-React-Projects/static/css/main.9593a291.css.map",
-    "main.31dada9d.js.map": "/First-React-Projects/static/js/main.31dada9d.js.map",
+    "main.4a0bd208.js.map": "/First-React-Projects/static/js/main.4a0bd208.js.map",
     "453.ad6eb26e.chunk.js.map": "/First-React-Projects/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9593a291.css",
-    "static/js/main.31dada9d.js"
+    "static/js/main.4a0bd208.js"
   ]
 }
